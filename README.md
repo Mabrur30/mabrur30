@@ -9,4 +9,4 @@ Full-stack developer and CS graduate based in Dhaka, Bangladesh, working across 
 - 🌱 Interested in machine learning theory and always exploring new tools in the data science space
 - 🌐 Speak English, Bengali (native), and some Japanese
 
-📫 Reach me on [GitHub](https://github.com/Mabrur30)
+📫 Reach me on mabrurdcc2020@gmail.com
