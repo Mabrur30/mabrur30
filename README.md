@@ -1,4 +1,4 @@
-# <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Hi, I'm Mabrur (ADRO) 👋
 Full-stack developer and CS graduate based in Dhaka, Bangladesh, working across web development, data science, and QA/testing.<br><br>🎓 CSE graduate from United International University (UIU) — Data Science & Web Development<br>💻 MERN-stack developer, currently building CivilHub — a construction marketplace for Bangladesh with an AI-powered cost estimation module (React, TypeScript, Node.js, MongoDB)<br>🔬 Research background in computer vision — worked on a hybrid event-based/RAW image processing pipeline for motion deblurring (HybridDeblurNet)<br>🛠️ Also do freelance WordPress development (Elementor, WooCommerce, CartFlows)<br>🌱 Interested in machine learning theory and always exploring new tools in the data science space<br>🌐 Speak English, Bengali (native), and some Japanese<br>📫 Reach me on mabrurdcc2020@gmail.com
 
 
